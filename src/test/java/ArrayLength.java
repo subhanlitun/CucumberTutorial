@@ -1,7 +1,7 @@
 /*Finding lenght of
 array without
 using lenght
-function
+function.Subh
 */
 
 
